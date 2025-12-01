@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ザ・フォール",
+  "base_artist": "Imagine Dragons",
+  "createdAt": "2025-12-01T04:58:26.591305Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ザ・フォール・ソング",
+      "artist": "ブリジット・メンドラー",
+      "has_synced": true,
+      "path": "select/01_ザ・フォール・ソング_ブリジット・メンドラー.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Fall",
+      "artist": "Imagine Dragons",
+      "has_synced": false,
+      "path": "select/pl_01_The_Fall_Imagine_Dragons.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "The Falls",
+      "artist": "Imagine Dragons",
+      "has_synced": false,
+      "path": "select/pl_02_The_Falls_Imagine_Dragons.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "The Fall",
+      "artist": "Imagine Dragons",
+      "has_synced": false,
+      "path": "select/pl_03_The_Fall_Imagine_Dragons.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "The whole world",
+      "artist": "Imagine Dragons",
+      "has_synced": false,
+      "path": "select/pl_04_The_whole_world_Imagine_Dragons.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "The Fall into Time",
+      "artist": "Imagine Dragons",
+      "has_synced": false,
+      "path": "select/pl_05_The_Fall_into_Time_Imagine_Dragons.txt"
+    }
+  ]
+}
